@@ -12,7 +12,7 @@ static getDerivedStateFromError(error){
 
 }
 componentDidCatch(error,info){
-    console.log(error+"<--------->");
+    console.log("oops there is an error -->"+error);
 }
 
     render() {
