@@ -1,0 +1,12 @@
+
+
+@font-face {
+    font-family: "Blaka-Regular";
+    src: local("Blaka-Regular"),
+     url("./fonts/Blaka-Regular.ttf") format("truetype");
+    
+    }
+h1 {
+    font-family:Blaka-Regular;
+    color: rgb(30, 5, 52);
+}
